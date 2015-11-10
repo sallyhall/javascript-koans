@@ -1,0 +1,21 @@
+{
+  "name": "javascript-koans",
+  "homepage": "https://github.com/sallykingston/javascript-koans",
+  "authors": [
+    "Sally Kingston <sally.a.kingston@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
